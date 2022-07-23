@@ -1,0 +1,28 @@
+{
+  "name": "rollup-node-starter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/main.js",
+  "module": "dist/main.js",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "start": "node dist/main.js",
+    "build": "NODE_ENV=production rollup -c"
+  },
+  "keywords": [],
+  "author": "Seanghay Yath <seanghay.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "@rollup/plugin-run": "^2.1.0",
+    "@types/node": "16",
+    "esbuild": "^0.14.49",
+    "rollup": "^2.77.0",
+    "rollup-plugin-esbuild": "^4.9.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "tslib": "^2.4.0"
+  }
+}
