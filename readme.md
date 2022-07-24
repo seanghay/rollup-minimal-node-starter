@@ -2,6 +2,8 @@
 
 A minimal starter project for Node.js.
 
+[![node_build](https://github.com/seanghay/rollup-node-starter/actions/workflows/node-build.yml/badge.svg?branch=main)](https://github.com/seanghay/rollup-node-starter/actions/workflows/node-build.yml)
+
 ## Use this template
 
 ```
