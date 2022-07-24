@@ -16,7 +16,6 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.3.0",
     "@rollup/plugin-run": "^2.1.0",
-    "@rollup/plugin-url": "^7.0.0",
     "@types/node": "16",
     "esbuild": "^0.14.49",
     "rollup": "^2.77.0",
