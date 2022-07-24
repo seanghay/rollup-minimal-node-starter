@@ -1,4 +1,4 @@
-name: test
+name: node_build
 
 on:
   push:
