@@ -27,3 +27,5 @@ pnpm dev
 ```
 pnpm build
 ```
+
+[![made by seanghay](https://img.shields.io/badge/made_by-seanghay-5BB318?style=flat-square)](https://img.shields.io/badge/made_by-seanghay-5BB318?style=flat-square)
