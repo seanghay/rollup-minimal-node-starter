@@ -1,4 +1,4 @@
-# Rollup Node Starter
+# Rollup Minimal Node Starter
 
 A minimal starter project for Node.js.
 
